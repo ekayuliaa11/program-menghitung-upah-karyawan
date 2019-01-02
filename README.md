@@ -13,3 +13,6 @@
     cout<<"Gaji yang diperoleh : \n"<<GAJI<<endl;
     return 0 ;
     }
+
+# hasil program 
+![img](https://github.com/ekayuliaa11/program-menghitung-upah-karyawan/blob/master/upah%20pekerja.png?raw=true)
